@@ -6,7 +6,7 @@ var elasticClient = new elasticsearch.Client({
     log: 'trace'
 });
 
-var indexName = "kohinoorsms";//indexname
+var indexName = "ibsms";//indexname
 
 /**
 * Delete an existing index
